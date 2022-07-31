@@ -30,7 +30,6 @@ public class Oops {
 			System.out.println(obj.add(10, 22.23f,34));
 			System.out.println(obj.add(13.56f,39,47));
 			
-			
 	}
 
 }
